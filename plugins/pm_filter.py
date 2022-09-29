@@ -424,7 +424,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             [
                              [
                               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                              InlineKeyboardButton('Movie Group', url=CHNL_LNK)
+                              InlineKeyboardButton('Movie Group', url=GPP_LNK)
                            ],[
                               InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/AFxSU")
                              ]
@@ -472,7 +472,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 [
                  [
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                  InlineKeyboardButton('Movie Group', url=CHNL_LNK)
+                  InlineKeyboardButton('Movie Group', url=GPP_LNK)
                ],[
                   InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/AFxSU")
                  ]
