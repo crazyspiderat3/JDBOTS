@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://telegra.ph/file/2183b863ad29c78515a48.jpg" alt="JD-The-File-Donor Logo">
 </p>
 <h1 align="center">
-  <b>DQ-The-File-Donor Bot</b>
+  <b>JD-The-File-Donor Bot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DQ-The-File-Donor!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+JD-The-File-Donor!;Created+by+AFSAL;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
 [![Stars](https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?style=flat-square&color=yellow)](https://github.com/Joelkb/DQ-The-File-Donor/stargazers)
@@ -139,8 +139,7 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/AFxSU)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
@@ -152,7 +151,7 @@ python3 bot.py
 
 ## Note 🏷️
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/AFxSU)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
