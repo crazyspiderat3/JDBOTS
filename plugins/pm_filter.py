@@ -872,7 +872,7 @@ async def auto_filter(client, msg, spoll=False):
         cap = f""" 🎪 ᴛɪᴛɪʟᴇ:{search}
 
 ┏ 🤴𝙰𝚂𝙺𝙴𝙳 𝙱𝚈  : {message.from_user.mention}
-┣ ⚡𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 : < href='https://t.me/{temp.U_NAME}'>𝘑𝘰𝘩𝘯𝘋𝘶𝘳𝘢𝘪</a>
+┣ ⚡𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 : <a href='https://t.me/{temp.U_NAME}'>𝘑𝘰𝘩𝘯𝘋𝘶𝘳𝘢𝘪</a>
 ┣ 🍁𝙶𝚁𝙾𝚄𝙿 : <a href='https://t.me/at3movies'>𝘈𝘛3𝘮𝘰𝘷𝘪𝘦𝘴</a>
 ┣ 🗑️𝙸𝙽𝙵𝙾 : ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡᴀꜱ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ɪɴ 5 ᴍɪɴᴜᴛᴇꜱ
 ┗❤️‍🔥𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 : <a href='https://t.me/AFxSU'>♡ Çråz¥ ♡</a> """
