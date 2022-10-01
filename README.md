@@ -116,6 +116,7 @@
 </p>
 </details>
 <details><summary>Deploy To Heroku Via Bot</summary>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TKLYA7)
 <p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=Sm9lbGtiL0RRLXRoZS1maWxlLWRvbm9yIG1hc3Rlcg">
