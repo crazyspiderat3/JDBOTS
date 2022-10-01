@@ -107,25 +107,12 @@
 * Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
 
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/crazyspiderat3/JDBOTS">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
-</a>
-</p>
-</details>
-<details><summary>Deploy To Heroku Via Bot</summary>
+## Deploy
+You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://railway.app)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LUCIFER)
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TKLYA7)
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=Sm9lbGtiL0RRLXRoZS1maWxlLWRvbm9yIG1hc3Rlcg">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy Via Heroku Bot">
-</a>
-</p>
-</details>
-<details><summary>Deploy To VPS</summary>
-<p>
 <pre>
 git clone https://github.com/Joelkb/DQ-The-File-Donor
 # Install Packages
