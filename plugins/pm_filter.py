@@ -72,7 +72,7 @@ async def next_page(bot, query):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"[◆{get_size(file.file_size)}➢] {file.file_name}", callback_data=f'files#{file.file_id}'
+                    text=f"◆{get_size(file.file_size)}➢ {file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
             ]
             for file in files
@@ -760,7 +760,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"[◆{get_size(file.file_size)}]➢ {file.file_name}", callback_data=f'{pre}#{file.file_id}'
+                    text=f"◆{get_size(file.file_size)}➢ {file.file_name}", callback_data=f'{pre}#{file.file_id}'
                 ),
             ]
             for file in files
@@ -876,7 +876,7 @@ async def auto_filter(client, msg, spoll=False):
 ┣ 🍁𝙶𝚁𝙾𝚄𝙿 : <a href='https://t.me/at3movies'>𝘈𝘛3𝘮𝘰𝘷𝘪𝘦𝘴</a>
 ┗ 🗑️𝙸𝙽𝙵𝙾 : ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡᴀꜱ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ɪɴ 5 ᴍɪɴᴜᴛᴇꜱ
 
-❤️‍🔥𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 : <a href='https://t.me/AFxSU'>♡ Çråz¥ ♡</a> """
+❤️‍🔥𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 : <a href='https://t.me/AFxSU'♡ Çråz¥ ♡</a> """
     if imdb and imdb.get('poster'):
         try:
             hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
@@ -1004,14 +1004,14 @@ async def advantage_spell_chok(msg):
     )
     try:
         if settings['auto_delete']:
-            await asyncio.sleep(600)
+            await asyncio.sleep(300)
             await spell_check_del.delete()
     except KeyError:
             grpid = await active_connection(str(message.from_user.id))
             await save_group_settings(grpid, 'auto_delete', True)
             settings = await get_settings(message.chat.id)
             if settings['auto_delete']:
-                await asyncio.sleep(600)
+                await asyncio.sleep(300)
                 await spell_check_del.delete()
 
 
