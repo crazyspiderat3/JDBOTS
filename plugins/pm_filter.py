@@ -876,7 +876,7 @@ async def auto_filter(client, msg, spoll=False):
 ┣ 🍁𝙶𝚁𝙾𝚄𝙿 : <a href='https://t.me/at3movies'>𝘈𝘛3𝘮𝘰𝘷𝘪𝘦𝘴</a>
 ┗ 🗑️𝙸𝙽𝙵𝙾 : ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡᴀꜱ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ɪɴ 5 ᴍɪɴᴜᴛᴇꜱ
 
-❤️‍🔥𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 : <a href='https://t.me/AFxSU'♡ Çråz¥ ♡</a> """
+❤️‍🔥𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 : <a href='https://t.me/AFxSU'>𝐀𝐅𝐱𝐒𝐔</a> """
     if imdb and imdb.get('poster'):
         try:
             hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
